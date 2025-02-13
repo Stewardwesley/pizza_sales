@@ -1,8 +1,3 @@
-# pizza_sales
-Here's a comprehensive `README.md` that summarizes the analysis of the pizza sales data and outlines the steps taken so far:
-
----
-
 # Pizza Sales Data Analysis
 
 This repository contains the analysis of a dataset detailing pizza sales. The goal of this project is to explore the relationship between the price per pizza and the quantity sold, as well as to visualize key insights from the data. The analysis aims to help understand patterns in sales, optimize pricing strategies, and make data-driven decisions.
@@ -73,7 +68,3 @@ pip install pandas matplotlib seaborn numpy
 ## Conclusion
 
 This analysis aims to provide valuable insights into how the price of pizzas impacts sales quantity. Further analysis and visualizations will be added to explore the data more deeply and optimize pizza sales strategies.
-
----
-
-Feel free to customize this README further with any other details or changes you make in the analysis. Let me know if you'd like to add anything specific!
